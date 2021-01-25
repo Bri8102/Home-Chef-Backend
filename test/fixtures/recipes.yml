@@ -2,10 +2,10 @@
 
 one:
   title: MyString
-  recipe_link: MyString
+  recipe_url: MyString
   image_url: MyString
 
 two:
   title: MyString
-  recipe_link: MyString
+  recipe_url: MyString
   image_url: MyString
